@@ -1,4 +1,4 @@
-"""Run the examples accompanying the team's Python learning draft."""
+"""Run the examples accompanying the Python fundamentals documentation."""
 
 
 def result_label(score):

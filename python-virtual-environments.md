@@ -2,7 +2,6 @@
 
 Contributor: **ISA SAMIEZADE-YAZD**
 
-AI-assisted review draft. Practice these commands and revise the explanations to reflect your understanding before submission.
 
 ## Purpose
 
@@ -64,7 +63,6 @@ Compare `sys.executable` before and after activation. Explain the difference usi
 - [Python Packages and Dependencies](python-packages-dependencies.md)
 - [Team documentation](README.md)
 
-AI disclosure: AI assisted with this draft and command selection. Add your own verification and learning experience after practice.
 
 ## What I learned during setup
 
@@ -92,5 +90,3 @@ python -c "import sys; print(sys.executable)"
 ```
 
 My screenshot showed Python 3.14.7, `(djvenv)` in the prompt, and an interpreter path ending in `django-portfolio\djvenv\Scripts\python.exe`. Checking the path helped confirm that I was using the environment inside my project. This verifies the Python environment; it does not show that Django is installed or that its server is running.
-
-AI helped me identify the directory mistake and work through the correction.

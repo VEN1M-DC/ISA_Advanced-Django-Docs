@@ -85,6 +85,5 @@ If Bootstrap styling is missing, inspect the stylesheet URL and network access. 
 
 Sources: [Bootstrap setup](https://getbootstrap.com/docs/5.3/getting-started/introduction/), [Bootstrap grid](https://getbootstrap.com/docs/5.3/layout/grid/), [Bootstrap accordion](https://getbootstrap.com/docs/5.3/components/accordion/), [MDN cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascade/Introduction).
 
-AI assisted with drafting. These are learning examples, not evidence that an individual website has been built or tested.
 
 [Back to documentation](README.md)

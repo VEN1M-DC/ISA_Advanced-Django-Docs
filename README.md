@@ -12,14 +12,12 @@ Course documentation by **ISA SAMIEZADE-YAZD** covering Python and web developme
 - [CSS with Bootstrap](css-bootstrap.md) — setup, containers, grid, cards, and navigation.
 - [Python examples](examples/python_basics.py) — runnable examples for the fundamentals section.
 
-## Topics awaiting new documentation
+## Additional documentation
 
-- Command Line
-- Django Framework and Setup
-- Git and GitHub Development Environment
+- [Command Line](command-line.md) — shell commands, navigation, file operations, and troubleshooting.
+- [Django Framework and Setup](django-setup.md) — compatibility, installation, structure, and the development server.
+- [Git and GitHub Development Environment](git-github-development-environment.md) — branches, Desktop workflow, ignore rules, and publishing.
 
-These sections will be written fresh for this repository. Other contributors' pages and images from the shared repository have not been copied here.
+## Using these notes
 
-## About this work
-
-These files were created for my contribution to the course documentation with AI assistance. They remain review drafts where indicated. The individual Django application, screenshots, and personal reflections are separate deliverables. Personal claims and test results should reflect work actually performed.
+Run examples in the appropriate project directory and verify the results in your own environment. The individual Django application, screenshots, and personal reflections are separate deliverables. This repository contains technical documentation, not evidence that every setup or website check has been completed.

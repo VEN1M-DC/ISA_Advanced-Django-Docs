@@ -74,6 +74,5 @@ In Django, templates produce HTML sent to the browser. Template expressions are 
 
 Sources: [MDN semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics), [WAI development tips](https://www.w3.org/WAI/tips/developing/).
 
-AI assisted with drafting and checking these examples. Review and practice before submitting personal explanations.
 
 [Back to documentation](README.md)

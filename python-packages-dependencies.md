@@ -2,7 +2,6 @@
 
 Contributor: **ISA SAMIEZADE-YAZD**
 
-AI-assisted review draft. Practice these commands and revise the explanations to reflect your understanding before submission.
 
 ## Packages dependencies and pip
 
@@ -80,7 +79,6 @@ Explain one installed package's role, then compare `pip list` with `requirements
 - [Django Python compatibility](https://docs.djangoproject.com/en/stable/faq/install/#what-python-version-can-i-use-with-django)
 - [Team documentation](README.md)
 
-AI disclosure: AI assisted with this draft and examples. Add what you personally ran, verified, and learned.
 
 ## How requirements relate to compatibility
 

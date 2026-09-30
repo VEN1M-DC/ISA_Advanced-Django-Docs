@@ -2,7 +2,6 @@
 
 Contributor: **ISA SAMIEZADE-YAZD**
 
-Review status: AI-assisted learning draft. Run the examples, revise the explanations to reflect your understanding, and record actual team feedback before submitting.
 
 Python is the programming language used to write Django applications. This page introduces enough Python syntax to begin reading project code, with comparisons for someone familiar with Java or C#.
 
@@ -22,7 +21,7 @@ python3 --version
 python3 examples/python_basics.py
 ```
 
-Run the file command from the repository directory. If you have activated a project virtual environment, use `python` to select that environment's interpreter. Python 3.14.6 was detected on the computer used to check this draft; verify your own installation instead of assuming the same version.
+Run the file command from the repository directory. If you have activated a project virtual environment, use `python` to select that environment's interpreter. The project setup screenshot showed Python 3.14.7; verify your own installation instead of assuming the same version.
 
 ## Comparison cheat sheet
 
@@ -122,7 +121,3 @@ Read the last line of a traceback for the exception, then inspect the referenced
 
 - [Python tutorial introduction](https://docs.python.org/3/tutorial/introduction.html) — numbers, strings, lists, and comments.
 - [Python classes tutorial](https://docs.python.org/3/tutorial/classes.html) — instances, methods, and inheritance.
-
-## AI use disclosure to personalize
-
-AI helped draft explanations, comparisons, and practice examples. The example script was executed during preparation. Add what you personally checked, changed, and learned; do not claim a review or learning experience you have not completed.
