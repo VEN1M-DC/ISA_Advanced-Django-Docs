@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Django Framework and Setup
 
 Contributor: **ISA SAMIEZADE-YAZD**
@@ -85,4 +89,4 @@ Save dependencies using the [requirements instructions](python-packages-dependen
 
 Sources: [Django tutorial](https://docs.djangoproject.com/en/6.0/intro/tutorial01/), [Django commands](https://docs.djangoproject.com/en/6.0/ref/django-admin/), [Python environments](https://docs.python.org/3/library/venv.html).
 
-[Back to documentation](README.md)
+[Back to documentation](index.md)

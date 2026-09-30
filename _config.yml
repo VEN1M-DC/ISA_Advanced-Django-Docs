@@ -1,0 +1,15 @@
+title: ISA Advanced Django Docs
+description: Python and web development notes by ISA SAMIEZADE-YAZD
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md

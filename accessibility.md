@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Web Accessibility
 
 Contributor: **ISA SAMIEZADE-YAZD**
@@ -54,4 +58,4 @@ If a control cannot be reached by keyboard, use a native link or button instead 
 Sources: [WAI development tips](https://www.w3.org/WAI/tips/developing/), [WAI design tips](https://www.w3.org/WAI/tips/designing/), [WCAG contrast explanation](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html).
 
 
-[Back to documentation](README.md)
+[Back to documentation](index.md)

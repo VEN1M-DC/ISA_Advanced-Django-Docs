@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Semantic HTML
 
 Contributor: **ISA SAMIEZADE-YAZD**
@@ -75,4 +79,4 @@ In Django, templates produce HTML sent to the browser. Template expressions are 
 Sources: [MDN semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics), [WAI development tips](https://www.w3.org/WAI/tips/developing/).
 
 
-[Back to documentation](README.md)
+[Back to documentation](index.md)

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Command Line
 
 Contributor: **ISA SAMIEZADE-YAZD**
@@ -52,4 +56,4 @@ Do not paste prompt characters such as `PS>` or `>>>` as part of commands. Use [
 
 Sources: [PowerShell current location](https://learn.microsoft.com/en-us/powershell/scripting/samples/managing-current-location), [Bash manual](https://www.gnu.org/software/bash/manual/).
 
-[Back to documentation](README.md)
+[Back to documentation](index.md)

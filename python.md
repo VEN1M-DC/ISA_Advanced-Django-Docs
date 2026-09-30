@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Python fundamentals
 
 Contributor: **ISA SAMIEZADE-YAZD**

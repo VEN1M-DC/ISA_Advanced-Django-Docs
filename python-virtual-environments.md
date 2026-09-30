@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Python Virtual Environments
 
 Contributor: **ISA SAMIEZADE-YAZD**
@@ -61,7 +65,7 @@ Compare `sys.executable` before and after activation. Explain the difference usi
 
 - [Official Python venv documentation](https://docs.python.org/3/library/venv.html)
 - [Python Packages and Dependencies](python-packages-dependencies.md)
-- [Team documentation](README.md)
+- [Team documentation](index.md)
 
 
 ## What I learned during setup

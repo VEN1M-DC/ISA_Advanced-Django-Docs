@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Python Packages and Dependencies
 
 Contributor: **ISA SAMIEZADE-YAZD**
@@ -77,7 +81,7 @@ Explain one installed package's role, then compare `pip list` with `requirements
 - [pip user guide](https://pip.pypa.io/en/stable/user_guide/)
 - [pip freeze reference](https://pip.pypa.io/en/stable/cli/pip_freeze/)
 - [Django Python compatibility](https://docs.djangoproject.com/en/stable/faq/install/#what-python-version-can-i-use-with-django)
-- [Team documentation](README.md)
+- [Team documentation](index.md)
 
 
 ## How requirements relate to compatibility

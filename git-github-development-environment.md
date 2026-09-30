@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Git and GitHub Development Environment
 
 Contributor: **ISA SAMIEZADE-YAZD**
@@ -84,4 +88,4 @@ A repository link shows files and history. GitHub Pages publishes static content
 
 Sources: [Git tutorial](https://git-scm.com/docs/gittutorial), [Git ignore rules](https://git-scm.com/docs/gitignore), [GitHub Desktop](https://docs.github.com/en/desktop), [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages).
 
-[Back to documentation](README.md)
+[Back to documentation](index.md)
