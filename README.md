@@ -1,17 +1,25 @@
-# ISA_Advanced-Django-Docs
-Python and Django development documentation covering setup, Git/GitHub, HTML, CSS, Bootstrap, and web accessibility.
+# ISA Advanced Django Docs
 
-- [Python fundamentals](python.md) — review draft with an object-oriented comparison cheat sheet and [runnable examples](examples/python_basics.py).
-- [Python Virtual Environments](python-virtual-environments.md) — purpose, creation, activation, deactivation, and troubleshooting.
-- [Python Packages and Dependencies](python-packages-dependencies.md) — pip, versions, requirements.txt, and restoring dependencies.
+Course documentation by **ISA SAMIEZADE-YAZD** covering Python and web development.
 
-- [Command Line](command-line.md) — navigation, files, directories, and shell differences.
-- [Django Framework and Setup](django-setup.md) — framework purpose, installation, project structure, and local server.
-- [Git and GitHub Development Environment](git-github-development-environment.md) — branches, Desktop workflow, sharing, and ignored files.
+## Documentation
+
+- [Python fundamentals](python.md) — fundamentals and an object-oriented comparison cheat sheet.
+- [Python Virtual Environments](python-virtual-environments.md) — purpose, creation, activation, and deactivation.
+- [Python Packages and Dependencies](python-packages-dependencies.md) — pip, package versions, and requirements.txt.
 - [Semantic HTML](html.md) — page structure, links, forms, and validation.
-- [Web Accessibility](accessibility.md) — inclusive design choices and manual checks.
-- [CSS with Bootstrap](css-bootstrap.md) — setup, containers, grid, cards, navigation, and troubleshooting.
+- [Web Accessibility](accessibility.md) — design choices and manual checks.
+- [CSS with Bootstrap](css-bootstrap.md) — setup, containers, grid, cards, and navigation.
+- [Python examples](examples/python_basics.py) — runnable examples for the fundamentals section.
 
-## Using these notes
+## Topics awaiting new documentation
 
-The repository contains shared technical documentation. The individual Django application and personal assignment responses are separate deliverables. Existing contributor credits are retained; additions identify ISA SAMIEZADE-YAZD. AI assisted with the new documentation, and examples should be reviewed and practiced before submission. Screenshots and personal experiences must reflect work actually performed.
+- Command Line
+- Django Framework and Setup
+- Git and GitHub Development Environment
+
+These sections will be written fresh for this repository. Other contributors' pages and images from the shared repository have not been copied here.
+
+## About this work
+
+These files were created for my contribution to the course documentation with AI assistance. They remain review drafts where indicated. The individual Django application, screenshots, and personal reflections are separate deliverables. Personal claims and test results should reflect work actually performed.
