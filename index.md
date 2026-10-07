@@ -23,6 +23,13 @@ Course documentation by **ISA SAMIEZADE-YAZD** covering Python and web developme
 - [Django Framework and Setup](django-setup.md) — compatibility, installation, structure, and the development server.
 - [Git and GitHub Development Environment](git-github-development-environment.md) — branches, Desktop workflow, ignore rules, and publishing.
 
+## Django lecture study guides
+
+- [Client server architecture and Django](client-server-architecture.md) — abstraction, HTTP, APIs, REST, services, MVT, and patterns.
+- [Django models databases and ORM](django-models-databases.md) — Agile, class design, Student, migrations, admin, identity, and queries.
+- [Django model relationships and branch workflow](django-model-relationships.md) — keys, Student–Portfolio–Project, cascade behavior, and relationship tests.
+- [Source materials and coverage](course-materials.md) — all three linked lectures and slide coverage.
+
 ## Using these notes
 
 Run examples in the appropriate project directory and verify the results in your own environment. The individual Django application, screenshots, and personal reflections are separate deliverables. This repository contains technical documentation, not evidence that every setup or website check has been completed.
