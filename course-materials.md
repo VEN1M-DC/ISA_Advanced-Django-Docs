@@ -20,6 +20,6 @@ These study guides cover the three course materials supplied October 7, 2026. Or
 
 ## Applying the material
 
-The guides distinguish instructions from verified work. Publishing them does not create Portfolio or Project in the Django application, execute destructive database exercises, or establish personal reflection and teamwork evidence. The source deck's Project design diagram remains available in the original; the guide labels additional Project fields as illustrative. Follow the full assignment's design before implementing them.
+The guides distinguish instructions from verified work. The application now implements Student, Portfolio, and Project. The source UML was inspected and the Project fields were implemented accordingly. Destructive relationship checks run in a temporary test database. See the implementation results for evidence; technical verification does not establish personal reflection or teamwork experiences.
 
 [Return to documentation home](index.md)

@@ -30,6 +30,8 @@ Course documentation by **ISA SAMIEZADE-YAZD** covering Python and web developme
 - [Django model relationships and branch workflow](django-model-relationships.md) — keys, Student–Portfolio–Project, cascade behavior, and relationship tests.
 - [Source materials and coverage](course-materials.md) — all three linked lectures and slide coverage.
 
+- [Portfolio implementation results](portfolio-implementation.md) — applied relationships, example data, public pages, and passing tests.
+
 ## Using these notes
 
 Run examples in the appropriate project directory and verify the results in your own environment. The individual Django application, screenshots, and personal reflections are separate deliverables. This repository contains technical documentation, not evidence that every setup or website check has been completed.

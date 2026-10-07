@@ -4,7 +4,7 @@ title: Django Model Relationships and Branch Workflow
 
 # Django Model Relationships and Branch Workflow
 
-Contributor: **ISA SAMIEZADE-YAZD**. Updated October 7, 2026. Study guide based on the linked relationship slides with AI assistance. Portfolio and Project code below is a proposed exercise, not a statement that those models have been added to the application.
+Contributor: **ISA SAMIEZADE-YAZD**. Updated October 7, 2026. Study guide based on the linked relationship slides with AI assistance. Portfolio and Project are now implemented in the Django application. See the [implementation results](portfolio-implementation.md) for verified schema, records, and tests.
 
 ## Choose relationships from requirements
 
@@ -32,7 +32,7 @@ git commit -m "Add portfolio relationship"
 git push -u origin model_setup
 ```
 
-Use git branch and git log to inspect progress. Commit after meaningful tested increments. Integrate the completed sprint into main after review and relationship checks. The local database is ignored and not switched with the branch; applying schema changes affects that same local file. No application branch was created by publishing this study guide.
+Use git branch and git log to inspect progress. Commit after meaningful tested increments. Integrate the completed sprint into main after review and relationship checks. The local database is ignored and not switched with the branch; applying schema changes affects that same local file. The application was implemented and tested on codex/model_setup before integration into main.
 
 ## Keys and the Portfolio model
 
@@ -54,7 +54,7 @@ class Portfolio(models.Model):
 
 Expected table: portfolio_app_portfolio. Expected columns: id, student_id, title, contact_email, is_active, about. Python exposes student as an object relationship; SQLite stores the related key as student_id. The one-to-one field has uniqueness enforcement on that reference.
 
-For the one-to-many requirement, this is an illustrative extension. The Project field details should be checked against the assignment's full UML design:
+The Project model follows the title, required description, and portfolio relationship shown in the source UML diagram:
 
 ```python
 class Project(models.Model):
@@ -62,13 +62,13 @@ class Project(models.Model):
         Portfolio, on_delete=models.CASCADE, related_name="projects"
     )
     title = models.CharField(max_length=200)
-    description = models.TextField(blank=True)
+    description = models.TextField()
 
     def __str__(self):
         return self.title
 ```
 
-Expected relation: Project.portfolio_id references Portfolio.id. Several Project rows can use the same portfolio_id. This proposed related_name makes portfolio.projects available for reverse queries; it is a design choice added in the example, not a field specified by the slides.
+Implemented relation: Project.portfolio_id references Portfolio.id. Several Project rows can use the same portfolio_id. This implemented related_name makes portfolio.projects available for reverse queries; it is a design choice added in the example, not a field specified by the slides.
 
 ## Migration and admin inspection
 
